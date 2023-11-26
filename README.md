@@ -94,6 +94,8 @@
 ```shell
 git clone https://github.com/Crazybrain555/chatnio.git
 cd chatnio
+git checkout feature-zyyfeature
+
 
 go build -o chatnio
 cd app
