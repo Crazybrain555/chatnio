@@ -92,7 +92,7 @@
 
 ## 📦 部署 | Deploy
 ```shell
-git clone https://github.com/Deeptrain-Community/chatnio.git
+git clone https://github.com/Crazybrain555/chatnio.git
 cd chatnio
 
 go build -o chatnio
